@@ -1,2 +1,2 @@
-# paradoxo_do_aniversario
-Gráfico da probabilidade de que pelo menos duas pessoas tenham a mesma data de aniversário para cada número de pessoas
+# Paradoxo do aniversário
+## Dado um grupo de 23 pessoas escolhidas ao acaso, quais são as chances de duas terem a mesma data de aniversário?
